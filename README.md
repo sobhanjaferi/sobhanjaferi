@@ -51,7 +51,8 @@ Currently diving deep into **React ⚛️, Next.js, TypeScript, Tailwind CSS** a
 Stay tuned for my upcoming projects! 😎✨  
 
 
-![Animated code lines](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+![Coding Animation](https://assets9.lottiefiles.com/packages/lf20_xxx.json)
+
 
 
 
