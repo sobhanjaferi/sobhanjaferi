@@ -27,6 +27,23 @@ Currently diving deep into **React ⚛️, Next.js, TypeScript, Tailwind CSS** a
 
 ---
 
+## 🏆 My Skills
+
+<p align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-90%-orange?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-85%-blue?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-80%-yellow?style=for-the-badge&logo=javascript&logoColor=black) &nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-70%-blue?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;
+![React](https://img.shields.io/badge/React-75%-61DAFB?style=for-the-badge&logo=react&logoColor=black) &nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-65%-black?style=for-the-badge&logo=next.js&logoColor=white) &nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-70%-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) &nbsp;
+![Git](https://img.shields.io/badge/Git-85%-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</p>
+
+---
+
 ## 📈 What I'm Working On
 - 🎯 Building **modern, responsive web apps** with React & Next.js  
 - 💡 Integrating **APIs** and dynamic data handling  
@@ -36,11 +53,29 @@ Currently diving deep into **React ⚛️, Next.js, TypeScript, Tailwind CSS** a
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|------------|------|
-| [Portfolio Website](#) | My personal portfolio showcasing projects | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| [Todo App API](#) | CRUD app using mock API | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![JSON Server](https://img.shields.io/badge/JSON_Server-FF6600?style=for-the-badge&logo=api&logoColor=white) |
-| [Next.js Blog](#) | Blog with SSR and dynamic routing | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
+<p align="center">
+
+**Portfolio Website**  
+My personal portfolio showcasing projects  
+<br>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+<br><br>
+
+**Todo App API**  
+CRUD app using mock API  
+<br>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![JSON Server](https://img.shields.io/badge/JSON_Server-FF6600?style=for-the-badge&logo=api&logoColor=white)  
+<br><br>
+
+**Next.js Blog**  
+Blog with SSR and dynamic routing  
+<br>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+
+</p>
 
 ---
 
