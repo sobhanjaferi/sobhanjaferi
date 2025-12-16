@@ -36,11 +36,29 @@ Currently diving deep into **React ⚛️, Next.js, TypeScript, Tailwind CSS** a
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|------------|------|
-| [Portfolio Website](#) | My personal portfolio showcasing projects | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| [Todo App API](#) | CRUD app using mock API | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![JSON Server](https://img.shields.io/badge/JSON_Server-FF6600?style=for-the-badge&logo=api&logoColor=white) |
-| [Next.js Blog](#) | Blog with SSR and dynamic routing | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
+<p align="center">
+
+**Portfolio Website**  
+My personal portfolio showcasing projects  
+<br>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+<br><br>
+
+**Todo App API**  
+CRUD app using mock API  
+<br>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![JSON Server](https://img.shields.io/badge/JSON_Server-FF6600?style=for-the-badge&logo=api&logoColor=white)  
+<br><br>
+
+**Next.js Blog**  
+Blog with SSR and dynamic routing  
+<br>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+
+</p>
 
 ---
 
