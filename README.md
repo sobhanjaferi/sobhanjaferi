@@ -14,21 +14,21 @@ HTML 🟧 | CSS 🎨 | JavaScript ⚡ | TypeScript 🌀 | React ⚛️ | Next.js
 🛠 **Tools:**  
 Git 🐙 | VS Code 🖊️ | npm 📦 | Webpack 🧩  
 
+---
 
+## 📈 What I'm working on:
 
-📈 What I'm working on:
-
-🎯 Building modern, responsive web apps with React & Next.js  
+🎯 Building **modern, responsive web apps** with React & Next.js  
 💡 Learning new things every day to become a better developer  
 
-
+---
 
 ## 📬 Let's connect:
 
-[GitHub followers] : (https://github.com/sobhanjaferi)  
-[LinkedIn] : (https://www.linkedin.com/in/sobhan-jafari-681301396/)  
+[![GitHub followers](https://img.shields.io/github/followers/sot837?style=social)](https://github.com/sot837)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/)  
 
-
+---
 
 Stay tuned for my upcoming projects! 😎✨  
 ![coding animation](./77816147-9d27-4fec-9556-fad2487f5abc.png)
