@@ -55,6 +55,14 @@ Currently diving deep into **React ⚛️, Next.js, TypeScript, Tailwind CSS** a
   <a href="https://www.linkedin.com/in/sobhan-jafari-681301396/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sobhanjafarii87@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/sot838" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="Telegram" width="40" height="40"/>
+  </a>
 </p>
 
 ---
