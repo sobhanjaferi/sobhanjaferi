@@ -1,10 +1,11 @@
-[<p align="center">
+<p align="center">
 
 # 👋 Hi, I'm Sobhan!
 
 I'm a passionate **Front-End Developer** based in **Karaj, Alborz, Iran 🇮🇷**.  
 I love turning ideas into interactive web experiences 🌟  
-Currently diving deep into **React ⚛️, Next.js, TypeScript, Tailwind CSS** and **API Integration** 🚀
+Currently diving deep into **React ⚛️, Next.js, TypeScript, Tailwind CSS**,  
+**React Query (TanStack Query)** and **API Integration** 🚀
 
 ---
 
@@ -16,6 +17,7 @@ Currently diving deep into **React ⚛️, Next.js, TypeScript, Tailwind CSS** a
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/> &nbsp;
+<img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" alt="React Query" width="50" height="50"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/> &nbsp;
@@ -27,30 +29,30 @@ Currently diving deep into **React ⚛️, Next.js, TypeScript, Tailwind CSS** a
 
 ---
 
-
 ## 🏆 My Skills
 
 <p align="center">
 
 | Skill | Logo | Proficiency |
 |:-----:|:----:|:-----------:|
-| HTML5 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" align="center" /> | 97% |
-| CSS3 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> | 98% |
-| JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" align="center" /> | 90% |
-| TypeScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" align="center" /> | 88% |
-| React | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" align="center" /> | 88% |
-| Next.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" align="center" /> | 87% |
-| Tailwind CSS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" align="center" /> | 93% |
-| Git | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" align="center" /> | 98% |
+| HTML5 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /> | 97% |
+| CSS3 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /> | 98% |
+| JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /> | 90% |
+| TypeScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" /> | 88% |
+| React | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /> | 88% |
+| React Query | <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" width="40" /> | 85% |
+| Next.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" /> | 87% |
+| Tailwind CSS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" /> | 93% |
+| Git | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> | 98% |
 
 </p>
-
 
 ---
 
 ## 📈 What I'm Working On
 - 🎯 Building **modern, responsive web apps** with React & Next.js  
-- 💡 Integrating **APIs** and dynamic data handling  
+- ⚡ Managing server-state efficiently using **React Query (TanStack Query)**  
+- 💡 Integrating **REST APIs** and handling async data  
 - 📚 Learning new technologies every day to grow as a developer  
 
 ---
@@ -62,22 +64,23 @@ Currently diving deep into **React ⚛️, Next.js, TypeScript, Tailwind CSS** a
 **Portfolio Website**  
 My personal portfolio showcasing projects  
 <br>
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <br><br>
 
 **Todo App API**  
-CRUD app using mock API  
+CRUD application with server state management  
 <br>
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![JSON Server](https://img.shields.io/badge/JSON_Server-FF6600?style=for-the-badge&logo=api&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Query](https://img.shields.io/badge/React_Query-EF4444?style=for-the-badge&logo=reactquery&logoColor=white)
+![JSON Server](https://img.shields.io/badge/JSON_Server-FF6600?style=for-the-badge&logo=api&logoColor=white)
 <br><br>
 
 **Next.js Blog**  
 Blog with SSR and dynamic routing  
 <br>
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 </p>
 
@@ -85,13 +88,13 @@ Blog with SSR and dynamic routing
 
 ## 📬 Connect with Me
 <a href="https://github.com/sobhanjaferi" target="_blank">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50"/>
 </a> &nbsp;
 <a href="https://www.linkedin.com/in/sobhan-jafari-681301396/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
 </a> &nbsp;
 <a href="mailto:sobhanjafarii87@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" height="50"/>
 </a>
 
 ---
@@ -100,6 +103,6 @@ Blog with SSR and dynamic routing
 
 Stay tuned for my upcoming projects! 😎✨  
 
-![Typing animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=0AB&center=true&vCenter=true&width=500&lines=💻+Coding+React+Apps...;🖥️+Learning+Next.js...;📝+Building+Projects...)
+![Typing animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=0AB&center=true&vCenter=true&width=500&lines=💻+Coding+React+Apps...;⚡+Using+React+Query...;🖥️+Learning+Next.js...;📝+Building+Projects...)
 
 </p>
